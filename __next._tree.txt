@@ -1,0 +1,5 @@
+:HL["/a-mirror-of-my-becoming-ship13-triviagate/_next/static/chunks/7af0e173cf372ed8.css","style"]
+:HL["/a-mirror-of-my-becoming-ship13-triviagate/_next/static/chunks/0ebd75c1c1fb0e68.css","style"]
+:HL["/a-mirror-of-my-becoming-ship13-triviagate/_next/static/media/797e433ab948586e-s.p.29207c2f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/a-mirror-of-my-becoming-ship13-triviagate/_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"buildId":"PdcTL7AMbVNqfb8jgXYz2","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
